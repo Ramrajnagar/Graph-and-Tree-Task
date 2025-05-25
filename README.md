@@ -44,6 +44,6 @@ Python
 
 NetworkX
 
-Matplotlib (for optional visualizations)
+Matplotlib 
 
-Real LinkedIn CSV cleaned data
+
